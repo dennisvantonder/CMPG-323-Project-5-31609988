@@ -20,4 +20,5 @@ Filters can also be applied over the whole report, if you navigate to the filter
 - Example:
 You can change the slider to only view devices that was installed between a specific time frame. The report will then be filtered to only show devices that was installed between those dates.
 ![image](https://user-images.githubusercontent.com/90188915/201018527-1d1b5942-6255-48ab-8bfc-7a4d6e372fde.png)
-
+### References:
+- [References](https://github.com/dennisvantonder/CMPG-323-Project-5-31609988/blob/main/References.docx)
