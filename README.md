@@ -15,3 +15,8 @@ You can navigate between the pages with the tabs on the left side of the screen.
 - Filter page: On this page there is filters that can be applied to the report that filter all the visuals on every page.
 ![image](https://user-images.githubusercontent.com/90188915/201017400-f1974c32-db51-4db0-aa7b-22b44ee6f183.png)
 ### How to filter report:
+Elements on the pages are interactive and you can hover over items to view more information or click on items to filter the page.
+Filters can also be applied over the whole report, if you navigate to the filter page, you can select on the slicers to filter the report based on your selection. Every visual on the report will then change according to your selection.
+- Example:
+You can change the slider to only view devices that was installed between a specific time frame.
+![image](https://user-images.githubusercontent.com/90188915/201018371-f048fd47-bc65-4273-8463-07970be80eab.png)
