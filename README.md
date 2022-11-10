@@ -19,4 +19,5 @@ Elements on the pages are interactive and you can hover over items to view more 
 Filters can also be applied over the whole report, if you navigate to the filter page, you can select on the slicers to filter the report based on your selection. Every visual on the report will then change according to your selection.
 - Example:
 You can change the slider to only view devices that was installed between a specific time frame.
-![image](https://user-images.githubusercontent.com/90188915/201018371-f048fd47-bc65-4273-8463-07970be80eab.png)
+![image](https://user-images.githubusercontent.com/90188915/201018527-1d1b5942-6255-48ab-8bfc-7a4d6e372fde.png)
+The report will then be filtered to only show devices that was installed between those dates.
