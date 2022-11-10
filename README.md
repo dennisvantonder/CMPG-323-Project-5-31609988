@@ -7,5 +7,5 @@ This repository contains a Power BI report that is used to monitor IoT devices. 
 - Device registration: Shows visuals of how much devices has been added per year, what categories was added per year, earliest and latest date installed and more.
 - Filter page: On this page there is filters that can be applied to the report that filter all the visuals on every page.
 ## How to use report:
-
+Navigate to the following link to view the report on Power BI services: https://app.powerbi.com/links/Qr4VZ97Zr8?ctid=331c86e7-d032-436f-bc53-f2552d031012&pbi_source=linkShare
 ### How to filter report:
