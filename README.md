@@ -1,5 +1,11 @@
 # Project 5 Repository:
+Author: [Dennis Van Tonder](https://github.com/dennisvantonder/)
+## Subject: IT Developments
+The IT-environment changes at a fast pace. That is why we have a module with content regularly updated to keep up with newer developments in the IT-environment. The module is presented at the end of the degree to allow students to integrate their knowledge from other modules into this module. In the module, a series of projects are undertaken. Self-study and teamwork are important parts of these projects. These projects' goal is to expose the student to new IT challenges and appropriate technology to address these challenges. The development of soft skills is also part of the primary goal of this module.
+## University project:
+This was the final project of the API created in [Project 2](https://github.com/dennisvantonder/CMPG-323-Project-2-31609988) this project is all about Power Bi and the statistics of the web API. Mark I recieved for this project was: 88%
 
+Feel free to download the project to you machine and have a look!
 ## Overview:
 This repository contains a Power BI report that is used to monitor IoT devices. The report gives a quick overview of how many devices have been added over time, what category that device belongs, in what zone the device is in and more. The report consists of 4 pages: High-level metrics, Device monitoring, Device registration and the filter page.
 ## How to use report:
